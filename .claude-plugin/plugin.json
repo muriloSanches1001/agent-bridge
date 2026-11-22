@@ -1,7 +1,7 @@
 {
   "name": "agent-bridge",
   "description": "A Claude Code plugin that delegates coding tasks to OpenAI Codex and Google Antigravity — Claude plans, they execute — with a plain-Markdown work-log, verifiable telemetry, git-worktree isolation, warm MCP sessions, and PRs.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": { "name": "Ian Kiku" },
   "homepage": "https://github.com/teamnebula-ai/agent-bridge",
   "repository": "https://github.com/teamnebula-ai/agent-bridge",
