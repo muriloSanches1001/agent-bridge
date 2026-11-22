@@ -1,6 +1,6 @@
 {
   "name": "agent-bridge",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Claude plans, agents execute. A bridge that delegates coding tasks from Claude Code to Codex or Antigravity, with a plain-Markdown filesystem work-log Claude reads anytime.",
   "bin": {
     "agent-bridge": "bin/agent-bridge.js"
